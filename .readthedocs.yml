@@ -6,7 +6,7 @@
 version: 2
 
 # Build documentation with MkDocs
-mkdocs:
+sphynx:
   configuration: mkdocs.yml
 
 # Declare the Python requirements required to build your docs
