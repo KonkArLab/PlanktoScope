@@ -2,7 +2,10 @@
 
 ## Download the image
 
-For ease of setup, a preconfigured image is provided. You can download it from [here](https://drive.google.com/file/d/1y0k_NDXN0yT5caZrXhjLYXgQVxu-D5ql/view?usp=sharing).
+To make setup easier, a preconfigured image is provided for download. 
+
+ - You can download the official image v2.3 : https://s3.bazile.io/planktoscope/images/planktoscope-v2.3-adafruit-final.img.gz
+ - You can also test this alternative image : https://espaces-collaboratifs.grenet.fr/share/proxy/alfresco-noauth/api/internal/shared/node/4svh5bflSqCEroWzgv5ecQ/content/PlanktoScope_V2.3-project_LacoScope.img.gz?c=force&noCache=1647424199666&a=true 
 
 ## Writing the image to the SD card
 
